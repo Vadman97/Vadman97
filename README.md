@@ -12,22 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a target="_blank" href="https://www.linkedin.com/in/vkorolik/">
+  <img align="right"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/Vadman97">
+  <img align="right" alt="recursion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 <p align="center">
   <h1>Hi, I'm Vadim!</h1>
 </p>
 
-<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=vadman97&count_private=true&show_icons=true&theme=cobalt">
-
-<a target="_blank" href="https://www.linkedin.com/in/vkorolik/">
-  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/Vadman97">
-  <img align="left" alt="recursion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 ![](https://komarev.com/ghpvc/?username=Vadman97&color=ff69b4)
+<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=vadman97&count_private=true&show_icons=true&theme=cobalt">
 
 ![vkorolik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vkorolik)
 <br/><br/>
