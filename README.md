@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Vadman97&color=ff69b4)
 <img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=vadman97&count_private=true&show_icons=true&theme=cobalt">
 
+<!--
 ![vkorolik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vkorolik)
 <br/><br/>
+-->
